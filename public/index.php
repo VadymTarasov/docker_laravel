@@ -9,6 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-vadym html
+
+<?php echo 'php работает!';?>
 </body>
 </html>
